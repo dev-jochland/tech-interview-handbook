@@ -5,11 +5,11 @@ module.exports = {
     },
     {
       'Step 1: Preparing your resume': [
-        'resume',
-        'resume-checklist',
-        'resume-case-study',
-        'resume-sample',
-        'cover-letter',
+        'resume/introduction',
+        'resume/scaffold',
+        'resume/sections',
+        'resume/optimize',
+        'resume/tips',
       ],
     },
     {
